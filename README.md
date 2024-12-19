@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 - 🌱 I’m currently learning **operating system**
 - 💼 I’m currently working on **object storage-Ceph**
-- 👯 I’m looking to collaborate on **storage project**
 - 📫 How to reach me: tuda.contact88@gmail.com
 
 ## 🛠️ Languages and Tools
