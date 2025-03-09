@@ -1,4 +1,4 @@
-# Hi there, I'm batamsieuhang! 👋
+# Hi there, I'm mr8! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building innovative solutions. Here’s a bit about me:
 
